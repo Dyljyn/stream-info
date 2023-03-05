@@ -1,29 +1,40 @@
-# Loyalty Points
-
-Every minute you watch the stream, you automatically receive `10 points`. These points can be used to redeem rewards.
-
-
 # Commands
 
-| Command | Description | Cost |
-|---------|-------------|------|
-| **Loyalty Points** |
-| `!points` | Tells your amount of points 
-| **Rewards** |
-| `!speak <message>` | Speaks your message out loud on stream. Using NSFW words will get you banned | 100 |
-| **General** |
+| Command | Description |
+|---------|-------------|
 | `!lurk` | Let's me know you're lurking |
-| **Phasmophobia** |
-| `!guess <ghost>` |
-| **Valorant** |
+| &nbsp;<br> **Loyalty Points** |
+| `!points` | Tells your amount of points |
+| &nbsp;<br> **Phasmophobia** |
+| `!guess <ghost>` | |
+| &nbsp;<br> **Valorant** |
 | `!rank` | Returns my current Valorant Rank |
 | `!crosshair` | Returns my crosshair import snippet |
 
 
-# Moderators Only
+---
+
+# Loyalty Points
+
+Every minute you watch the stream, you automatically receive `10 points`. These points can be used to redeem rewards.
+
+## Rewards
+
+| Command | Cost | Description |
+|---------|-------------|------|
+| `!speak <message>` | 100 | Speaks your message out loud on stream. Using NSFW words will get you banned |
+
+---
+
+<details>
+<summary>Moderators only</summary>
+
+## Moderators Only
 
 | Command | Description | 
 |---------|-------------|
 | **Loyalty Points** |
 | `!points set <userName> <points>` | Sets the amount of points of a user |
 | `!points add <userName> <points>` | Adds an amount of points to a user |
+
+</details>

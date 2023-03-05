@@ -32,5 +32,3 @@ Every minute you watch the stream, you automatically receive `10 points`. These 
 | **Loyalty Points** |
 | `!points set <userName> <points>` | Sets the amount of points of a user |
 | `!points add <userName> <points>` | Adds an amount of points to a user |
-
-</details>

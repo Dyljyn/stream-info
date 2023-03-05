@@ -25,9 +25,7 @@ Every minute you watch the stream, you automatically receive `10 points`. These 
 
 ---
 
-<details>
-
-<summary>Moderators only</summary>
+# Moderators only
 
 | Command | Description | 
 |---------|-------------|

@@ -1,3 +1,15 @@
+# Loyalty Points
+
+Every minute you watch the stream, you automatically receive `10 points`. These points can be used to redeem rewards.
+
+## Rewards
+
+| Command | Cost | Description |
+|---------|-------------|------|
+| `!speak <message>` | 100 | Speaks your message out loud on stream. Using NSFW words will get you banned |
+
+---
+
 # Commands
 
 | Command | Description |
@@ -10,19 +22,6 @@
 | &nbsp;<br> **Valorant** |
 | `!rank` | Returns my current Valorant Rank |
 | `!crosshair` | Returns my crosshair import snippet |
-
-
----
-
-# Loyalty Points
-
-Every minute you watch the stream, you automatically receive `10 points`. These points can be used to redeem rewards.
-
-## Rewards
-
-| Command | Cost | Description |
-|---------|-------------|------|
-| `!speak <message>` | 100 | Speaks your message out loud on stream. Using NSFW words will get you banned |
 
 ---
 

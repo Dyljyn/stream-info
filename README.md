@@ -2,6 +2,8 @@
 
 Every minute you watch the stream, you automatically receive `10 points`. These points can be used to redeem rewards.
 
+_**Note**: You may not receive points, if YouTube didn't consider you an active watcher at the moment the points are added._
+
 ## Rewards
 
 | Command | Cost | Description |

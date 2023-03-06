@@ -7,6 +7,9 @@ Every minute you watch the stream, you automatically receive `10 points`. These 
 | Command | Cost | Description |
 |---------|-------------|------|
 | `!speak <message>` | 100 | Speaks your message out loud on stream. Using NSFW words will get you banned |
+| `!voice alpha` | 300 | Change my voice for 1 minute |
+| `!voice kid` | 300 | Change my voice for 1 minute |
+
 
 ---
 
